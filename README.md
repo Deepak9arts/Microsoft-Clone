@@ -1,4 +1,3 @@
-![Screenshot (1331)](https://github.com/user-attachments/assets/76346727-3c3f-4735-9a3e-9acf58f11b85)
 
 ﻿# Microsoft-Clone
 ## Frontend clone of a Microsoft website
@@ -8,3 +7,4 @@
 
 
 Link->[Microsoft Clone](https://deepak9arts.github.io/Microsoft-Clone/)
+![Screenshot (1331)](https://github.com/user-attachments/assets/76346727-3c3f-4735-9a3e-9acf58f11b85)
